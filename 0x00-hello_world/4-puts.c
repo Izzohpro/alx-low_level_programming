@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - function that run the program
- *
- * return: always 0
+ * main - A program that print a linewith puts function
+ * Return: 0 (Success)
  */
 
 int main(void)
