@@ -1,9 +1,11 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_sign - function that prints signs
  * @n: parameter fuction
  * Return: 1, 0 and -1
  */
+
 
 int print_sign(int n)
 {
@@ -19,7 +21,7 @@ int print_sign(int n)
 	}
 	else
         {
-                _putchar('-');
-                return (-1);
+		_putchar('-');
+		return (-1);
         }
 }
