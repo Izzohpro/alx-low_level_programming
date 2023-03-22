@@ -1,7 +1,7 @@
-#includ "main.h"
+#include "main.h"
 /**
- * main - Entry point
- * Description: 'prints _putchar to stdout'
+ * main - entry point
+ * _putchar: print the alphabets putchar
  * Return: always 0
  */
 int main(void)
